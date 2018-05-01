@@ -1,4 +1,4 @@
-var DESIRED_SCORE = 300;
+var DESIRED_SCORE = 386;
 
 var R = (location.hash || "").substr(1),
     R = R.replace(/[\?&].*/g, "");
